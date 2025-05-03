@@ -33,11 +33,7 @@ Each optimizer is applied to the convex function `f(x1, x2) = x1² + 2x2²`, and
 
 ## 📊 Results
 
-Each optimizer is evaluated over a fixed number of iterations, and their movement paths are shown over a contour plot. Below is an example of how Gradient Descent and Adam navigate the loss surface:
-
-<p align="center">
-  <img src="path/to/sample_gd_vs_adam.png" width="500"/>
-</p>
+Each optimizer is evaluated over a fixed number of iterations, and their movement paths are shown over a contour plot.
 
 ## 📜 License
 
