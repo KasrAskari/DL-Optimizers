@@ -2,7 +2,7 @@
 
 A lightweight visualization tool to compare and understand the behavior of various gradient-based optimization algorithms on a simple 2D convex function.
 
-## 🚀 Overview
+## 🔎 Overview
 
 This project visualizes the optimization paths taken by different gradient-based optimizers such as:
 
